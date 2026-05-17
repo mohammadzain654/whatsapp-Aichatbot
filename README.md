@@ -4,6 +4,7 @@
 An AI-powered WhatsApp chatbot built with **n8n** for **AlphaBlue**, a mineral water delivery business in Karachi, Pakistan. The chatbot handles customer orders and complaints automatically — 24/7, with no human involvement.
 
 ---
+<img width="1469" height="831" alt="Screenshot 2026-05-17 at 6 48 10 PM" src="https://github.com/user-attachments/assets/809dc096-5115-4c17-9c99-81e605178e42" />
 
 ## 🚀 Features
 
